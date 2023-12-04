@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Charin
 - 🌱 I’m currently learning data science
 
-Hi 👋 My name is Charin =======================  * ✉️  You can contact me at [thatgirlcharyn@gmail.com](mailto:thatgirlcharyn@gmail.com) * 🧠  I'm learning data science
 
 ### Skills  
 
